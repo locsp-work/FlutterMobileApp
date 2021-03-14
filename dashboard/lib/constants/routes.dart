@@ -1,0 +1,9 @@
+const String LoginViewRoute = "/LoginView";
+const String SignUpViewRoute = "/SignUp";
+const String HomeViewRoute = "/HomeView";
+const String CreatePostCatViewRoute = "/CreatePostCatView";
+const String CreatePostProdViewRoute = "/CreatePostProdView";
+const String ShopCatViewRoute="/ShopCatView";
+const String ShopItemViewRoute="/ShopItemView";
+const String ShopItemReviewViewRoute="/ShopItemReviewView";
+const String StartUpViewRoute='/';
